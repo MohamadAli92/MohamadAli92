@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadali92&show_icons=true&theme=dark&locale=en" alt="mohamadali92" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadali92&theme=dark" alt="mohamadali92" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamadali92&theme=dark)](https://git.io/streak-stats)
