@@ -159,4 +159,4 @@
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadali92&show_icons=true&theme=dark&locale=en" alt="mohamadali92" /></p>
 </br>
-<p align="center"> 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-introduction"> this course </a> </p>
+<p align="center"> 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank"> this course </a> </p>
