@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali KazemiArdakani</h1>
 <h3 align="center">A code lover who has just settled in US.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamadali92&label=views&color=8accf4&style=plastic" alt="mohamadali92" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadali92" alt="mohamadali92" /></a> </p>
 </br>
 
-<p align="center"> 🌱 I’m currently learning **https://www.coursera.org/specializations/machine-learning-introduction** </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamadali92&label=views&color=8accf4&style=plastic" alt="mohamadali92" /> </p>
+</br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadali92" alt="mohamadali92" /></a> </p>
 </br>
 
 <h3 align="center">Connect with me:</h3>
@@ -159,4 +158,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadali92&show_icons=true&theme=radical&locale=en&layout=compact" alt="mohamadali92" /></p>
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadali92&show_icons=true&theme=dark&locale=en" alt="mohamadali92" /></p>
-<!-- </div> -->
+</br>
+<p align="center"> 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-introduction"> this course </a> </p>
